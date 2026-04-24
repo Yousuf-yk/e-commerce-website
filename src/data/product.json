@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Blue Jeans",
+    "price": 1299,
+    "category": "jeans",
+    "image": "/images/jeans1.jpg",
+    "description": "Comfortable slim fit jeans"
+  },
+  {
+    "id": 2,
+    "name": "Black Shorts",
+    "price": 699,
+    "category": "shorts",
+    "image": "/images/shorts1.jpg",
+    "description": "Casual cotton shorts"
+  },
+  {
+    "id": 3,
+    "name": "Track Pants",
+    "price": 999,
+    "category": "trackpants",
+    "image": "/images/track1.jpg",
+    "description": "Stretchable sports wear"
+  },
+  {
+    "id": 4,
+    "name": "Slim Fit Jeans",
+    "price": 1499,
+    "category": "jeans",
+    "image": "/images/jeans2.jpg",
+    "description": "Trendy slim fit denim"
+  },
+  {
+    "id": 5,
+    "name": "Denim Shorts",
+    "price": 799,
+    "category": "shorts",
+    "image": "/images/shorts2.jpg",
+    "description": "Stylish summer denim shorts"
+  },
+  {
+    "id": 6,
+    "name": "Grey Track Pants",
+    "price": 899,
+    "category": "trackpants",
+    "image": "/images/track2.jpg",
+    "description": "Lightweight gym wear"
+  },
+  {
+    "id": 7,
+    "name": "Ripped Jeans",
+    "price": 1699,
+    "category": "jeans",
+    "image": "/images/jeans3.jpg",
+    "description": "Modern ripped style jeans"
+  },
+  {
+    "id": 8,
+    "name": "Sports Shorts",
+    "price": 599,
+    "category": "shorts",
+    "image": "/images/shorts3.jpg",
+    "description": "Breathable sports shorts"
+  },
+  {
+    "id": 9,
+    "name": "Black Track Pants",
+    "price": 1099,
+    "category": "trackpants",
+    "image": "/images/track3.jpg",
+    "description": "Comfort fit track pants"
+  },
+  {
+    "id": 10,
+    "name": "Classic Blue Jeans",
+    "price": 1399,
+    "category": "jeans",
+    "image": "/images/jeans4.jpg",
+    "description": "Regular fit classic denim"
+  },
+  {
+    "id": 11,
+    "name": "Cotton Shorts",
+    "price": 649,
+    "category": "shorts",
+    "image": "/images/shorts4.jpg",
+    "description": "Soft cotton daily wear"
+  },
+  {
+    "id": 12,
+    "name": "Jogger Track Pants",
+    "price": 1199,
+    "category": "trackpants",
+    "image": "/images/track4.jpg",
+    "description": "Jogger style stretch pants"
+  },
+  {
+    "id": 13,
+    "name": "Dark Wash Jeans",
+    "price": 1599,
+    "category": "jeans",
+    "image": "/images/jeans5.jpg",
+    "description": "Premium dark wash denim"
+  },
+  {
+    "id": 14,
+    "name": "Running Shorts",
+    "price": 749,
+    "category": "shorts",
+    "image": "/images/shorts5.jpg",
+    "description": "Lightweight running shorts"
+  },
+  {
+    "id": 15,
+    "name": "Training Track Pants",
+    "price": 999,
+    "category": "trackpants",
+    "image": "/images/track5.jpg",
+    "description": "Perfect for workouts"
+  },
+  {
+    "id": 16,
+    "name": "Skinny Jeans",
+    "price": 1499,
+    "category": "jeans",
+    "image": "/images/jeans6.jpg",
+    "description": "Tight fit modern jeans"
+  },
+  {
+    "id": 17,
+    "name": "Beach Shorts",
+    "price": 699,
+    "category": "shorts",
+    "image": "/images/shorts6.jpg",
+    "description": "Perfect for beach wear"
+  },
+  {
+    "id": 18,
+    "name": "Slim Track Pants",
+    "price": 1099,
+    "category": "trackpants",
+    "image": "/images/track6.jpg",
+    "description": "Slim fit athletic pants"
+  },
+  {
+    "id": 19,
+    "name": "Stretch Jeans",
+    "price": 1399,
+    "category": "jeans",
+    "image": "/images/jeans7.jpg",
+    "description": "Flexible stretch denim"
+  },
+  {
+    "id": 20,
+    "name": "Casual Shorts",
+    "price": 599,
+    "category": "shorts",
+    "image": "/images/shorts7.jpg",
+    "description": "Everyday casual shorts"
+  }
+]

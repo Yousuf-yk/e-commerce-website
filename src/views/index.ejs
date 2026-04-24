@@ -1,1 +1,12 @@
-<h1>hello</h1>
+<%- include('partials/header') %>
+<h2>Products</h2>
+
+<div class="products">
+  <% products.forEach(p => { %>
+    <div class="card">
+      <img src="<%= p.image %>" alt="<%= p.name %>" width="150">
+      <h3><%= p.name %></h3>
+      <p>₹<%= p.price %></p>
+    </div>
+  <% }) %>
+</div>
