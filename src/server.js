@@ -20,11 +20,9 @@ app.use(express.static(path.join(__dirname, "public")));
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
 
-// route
-app.get("/", (req, res) => {
-  res.render("index");
-});
 
+//productRoute
+app.use("/", productRoutes);
 // start server
 app.listen(PORT, () => {
   console.log(`Running on http://localhost:${PORT}`);

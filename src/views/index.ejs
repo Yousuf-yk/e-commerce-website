@@ -3,10 +3,12 @@
 
 <div class="products">
   <% products.forEach(p => { %>
-    <div class="card">
-      <img src="<%= p.image %>" alt="<%= p.name %>" width="150">
-      <h3><%= p.name %></h3>
-      <p>₹<%= p.price %></p>
-    </div>
+    <a href="/product/<%= p.id %>" class="card-link">
+      <div class="card">
+        <img src="<%= p.image %>" alt="<%= p.name %>" width="150">
+        <h3><%= p.name %></h3>
+        <p>₹<%= p.price %></p>
+      </div>
+    </a>  
   <% }) %>
 </div>
