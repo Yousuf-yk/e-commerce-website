@@ -1,6 +1,5 @@
 <%- include('partials/header') %>
-<h2>Products</h2>
-
+<main>
 <div class="products">
   <% products.forEach(p => { %>
     <a href="/product/<%= p.id %>" class="card-link">
@@ -12,3 +11,6 @@
     </a>  
   <% }) %>
 </div>
+</main>
+
+<%- include('partials/footer') %>

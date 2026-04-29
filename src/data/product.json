@@ -4,7 +4,7 @@
     "name": "Blue Jeans",
     "price": 1299,
     "category": "jeans",
-    "image": "/images/jeans1.jpg",
+    "image": "/images/bluejeans.jpg",
     "description": "Comfortable slim fit jeans"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Black Shorts",
     "price": 699,
     "category": "shorts",
-    "image": "/images/shorts1.jpg",
+    "image": "/images/casualshorts.jpg",
     "description": "Casual cotton shorts"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Track Pants",
     "price": 999,
     "category": "trackpants",
-    "image": "/images/track1.jpg",
+    "image": "/images/trackpants.jpg",
     "description": "Stretchable sports wear"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Slim Fit Jeans",
     "price": 1499,
     "category": "jeans",
-    "image": "/images/jeans2.jpg",
+    "image": "/images/slimFitJeans.jpg",
     "description": "Trendy slim fit denim"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Denim Shorts",
     "price": 799,
     "category": "shorts",
-    "image": "/images/shorts2.jpg",
+    "image": "/images/casualshorts.jpg",
     "description": "Stylish summer denim shorts"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Grey Track Pants",
     "price": 899,
     "category": "trackpants",
-    "image": "/images/track2.jpg",
+    "image": "/images/traningTrackPants.jpg",
     "description": "Lightweight gym wear"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Ripped Jeans",
     "price": 1699,
     "category": "jeans",
-    "image": "/images/jeans3.jpg",
+    "image": "/images/rippedJeans.jpg",
     "description": "Modern ripped style jeans"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Sports Shorts",
     "price": 599,
     "category": "shorts",
-    "image": "/images/shorts3.jpg",
+    "image": "/images/sportsShorts.jpg",
     "description": "Breathable sports shorts"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Black Track Pants",
     "price": 1099,
     "category": "trackpants",
-    "image": "/images/track3.jpg",
+    "image": "/images/slimTP.jpg",
     "description": "Comfort fit track pants"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Classic Blue Jeans",
     "price": 1399,
     "category": "jeans",
-    "image": "/images/jeans4.jpg",
+    "image": "/images/skinnyjeans.jpg",
     "description": "Regular fit classic denim"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Cotton Shorts",
     "price": 649,
     "category": "shorts",
-    "image": "/images/shorts4.jpg",
+    "image": "/images/cottonshorts.jpg",
     "description": "Soft cotton daily wear"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Jogger Track Pants",
     "price": 1199,
     "category": "trackpants",
-    "image": "/images/track4.jpg",
+    "image": "/images/joggerTrackpant.jpg",
     "description": "Jogger style stretch pants"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Dark Wash Jeans",
     "price": 1599,
     "category": "jeans",
-    "image": "/images/jeans5.jpg",
+    "image": "/images/bluejeans.jpg",
     "description": "Premium dark wash denim"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Running Shorts",
     "price": 749,
     "category": "shorts",
-    "image": "/images/shorts5.jpg",
+    "image": "/images/trackPants.jpg",
     "description": "Lightweight running shorts"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Training Track Pants",
     "price": 999,
     "category": "trackpants",
-    "image": "/images/track5.jpg",
+    "image": "/images/traningTrackPants.jpg",
     "description": "Perfect for workouts"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Skinny Jeans",
     "price": 1499,
     "category": "jeans",
-    "image": "/images/jeans6.jpg",
+    "image": "/images/skinnyJeans.jpg",
     "description": "Tight fit modern jeans"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Beach Shorts",
     "price": 699,
     "category": "shorts",
-    "image": "/images/shorts6.jpg",
+    "image": "/images/denimShorts.jpg",
     "description": "Perfect for beach wear"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Slim Track Pants",
     "price": 1099,
     "category": "trackpants",
-    "image": "/images/track6.jpg",
+    "image": "/images/slimTP.jpg",
     "description": "Slim fit athletic pants"
   },
   {
@@ -148,7 +148,7 @@
     "name": "Stretch Jeans",
     "price": 1399,
     "category": "jeans",
-    "image": "/images/jeans7.jpg",
+    "image": "/images/blueJeans.jpg",
     "description": "Flexible stretch denim"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Casual Shorts",
     "price": 599,
     "category": "shorts",
-    "image": "/images/shorts7.jpg",
+    "image": "/images/sportsShorts.jpg",
     "description": "Everyday casual shorts"
   }
 ]

@@ -5,32 +5,43 @@
   font-family: Arial, sans-serif;
 }
 
+body{
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; 
+  background-color:#99AD7A;
+}
+
+main{
+  flex: 1;
+}
+.logo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #fff;
+}
 
 nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 20px;
   padding: 12px 40px;
-  background: #f8f9fa; /* off-white */
-  border-bottom: 1px solid #ddd;
+  background: #546B41; 
+  border-bottom: 1px solid #DCCCAC;
 }
 
 
 nav span {
   font-size: 22px;
   font-weight: bold;
-  color: #222;
+  color: #ffffff;
 }
 
-nav 
 
-nav input {
-  width: 300px;
-  padding: 8px 12px;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  outline: none;
-}
 
 nav input:focus {
   border-color: #555;
@@ -40,7 +51,7 @@ nav input:focus {
 nav a {
   margin-left: 20px;
   text-decoration: none;
-  color: #333;
+  color: #ffffff;
   font-weight: 500;
   transition: 0.2s;
 }
@@ -65,7 +76,7 @@ nav .nav-links {
   background: #fff;
   border-radius: 10px;
   padding: 15px;
-  border: 1px solid #eee;
+  border: 1px solid #eddddd;
   transition: 0.3s ease;
   cursor: pointer;
 }
@@ -80,6 +91,7 @@ nav .nav-links {
   height: 200px;
   object-fit: cover;
   border-radius: 8px;
+  border:1px solid black;
 }
 .card h3 {
   font-size: 16px;
@@ -88,8 +100,9 @@ nav .nav-links {
 }
 
 .card p {
-  font-size: 14px;
-  color: #555;
+  font-size: 18px;
+  color: #e63946;
+  font-weight:bold;
 }
 .card .price {
   font-weight: bold;
@@ -109,6 +122,9 @@ nav .nav-links {
   padding: 40px;
   max-width: 1000px;
   margin: auto;
+  border:1px solid black;
+  border-radius:25px;
+  background-color:white;
 }
 
 .product-image img {
@@ -116,6 +132,7 @@ nav .nav-links {
   height: 350px;
   object-fit: cover;
   border-radius: 10px;
+  border:1px solid black
 }
 
 .product-info {
@@ -156,4 +173,53 @@ nav .nav-links {
 
 .add-btn:hover {
   background-color: #333;
+}
+
+.search-box {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    overflow: hidden;
+    background: #f5f5f5;
+}
+
+.search-box input {
+    border: none;
+    outline: none;
+    padding: 10px 15px;
+    flex: 1;
+    background: transparent;
+}
+
+.search-box button {
+    border: none;
+    padding: 10px 20px;
+    background: #333;
+    color: white;
+    cursor: pointer;
+    background: #99AD7A;
+}
+
+.search-box button:hover {
+    background: #2f742a;
+}
+
+.search-box svg {
+    width: 18px;
+    height: 18px;
+    stroke: currentColor;
+}
+
+footer {
+  background-color: #546B41;   
+  color: #fff;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+}
+
+footer p {
+  margin: 0;
+  font-size: 14px;
 }
